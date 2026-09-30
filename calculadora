@@ -1,0 +1,68 @@
+
+
+
+function maria(){
+    console.log("3x2="+ 3*2)
+    console.log("3x4="+3*4)
+    console.log("3x6="+ 3*6)
+    console.log("3x8="+ 3*8)
+    console.log("3x10="+ 3*10)
+}
+
+function galaxia(){
+console.log("3/2="+3/2)
+console.log("3/4="+3/4)
+console.log("3/6"+3/6)
+console.log("3/8"+3/8)
+console.log("3/10"+3/10)
+}
+function maria(){
+    console.log("3x2="+ 3*2)
+    console.log("3x4="+3*4)
+    console.log("3x6="+ 3*6)
+    console.log("3x8="+ 3*8)
+    console.log("3x10="+ 3*10)
+}
+maria()
+function galaxia(){
+console.log("3/2="+3/2)
+console.log("3/4="+3/4)
+console.log("3/6"+3/6)
+console.log("3/8"+3/8)
+console.log("3/10"+3/10)
+}
+maria()
+console.log("===========================================================")
+galaxia()
+console.log("=======================================================================")
+function desenho(){
+console.log("3+2=",3+2)
+console.log("3+4=",3+4)
+console.log("3+6=",3+6)
+console.log("3+8=",3+8)
+console.log("3+10=",3+10)
+}
+desenho()
+console.log("------------------------------------------")
+function menulog(){
+    console.log("calculadora")
+    console.log("1-Multiplicar")
+    console.log("2- Dividir")
+    console.log("3-Somar")
+    console.log("Sair")
+}
+menulog()
+
+let garrafa=prompt("escolha uma opção conforme o numero")
+if (garrafa == 1) {
+  maria()
+}
+if (garrafa==2){
+     galaxia()
+}
+if (garrafa==3) {
+  desenho()
+}
+else {
+ console.log ("numero não identificado")
+}
