@@ -1,3 +1,3 @@
-# Calculadora simplificada
-##  Olá, venha conhecer a calculadora que criei com números pares.
-###  A calculadora é uma forma simplificada para que você possa ver os resultados e somas de forma simplificada e rapida
+# Exercios em java criados em aula 
+##  Oii, veja a minha pasta que eu fiz com meus codigos em java com todos meus projetos
+### varios codigos por exemplo da calculadora com números pares
